@@ -1,0 +1,17 @@
+=== SYSTEM STATE EXPORT ===
+Generated: 2026-05-22 10:28:52
+
+USERS:
+1001|Ahmed Ali|ahmed@example.com|25||1002,1003
+1002|Sara Mohamed|sara@example.com|22||1001,1004
+1003|Khaled Hassan|khaled@example.com|30||1001
+1004|Nourhan Tarek|nour@example.com|27||1002
+
+BOOKS:
+1005|The C++ Programming Language|Bjarne Stroustrup|2013|1|C++,programming,OO,advanced
+1006|Effective Modern C++|Scott Meyers|2014|1|C++,modern,effective
+1007|Data Structures and Algorithms|Thomas Cormen|2009|1|algorithms,data structures,CS
+1008|Clean Code|Robert Martin|2008|1|clean,code,software,craftsmanship
+1009|Design Patterns|Erich Gamma|1994|1|patterns,OOP,design
+
+TRANSACTIONS:

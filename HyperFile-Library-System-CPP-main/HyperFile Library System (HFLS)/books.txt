@@ -1,0 +1,5 @@
+1005|The C++ Programming Language|Bjarne Stroustrup|2013|1|C++,programming,OO,advanced
+1006|Effective Modern C++|Scott Meyers|2014|1|C++,modern,effective
+1007|Data Structures and Algorithms|Thomas Cormen|2009|1|algorithms,data structures,CS
+1008|Clean Code|Robert Martin|2008|1|clean,code,software,craftsmanship
+1009|Design Patterns|Erich Gamma|1994|1|patterns,OOP,design

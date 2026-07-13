@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HyperFile Library System (HFLS)/HyperFile Library System (HFLS).vcxproj" />
+</Solution>

@@ -1,0 +1,4 @@
+1001|Ahmed Ali|ahmed@example.com|25||1002,1003
+1002|Sara Mohamed|sara@example.com|22||1001,1004
+1003|Khaled Hassan|khaled@example.com|30||1001
+1004|Nourhan Tarek|nour@example.com|27||1002
